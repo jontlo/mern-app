@@ -1,6 +1,6 @@
 # MERN Single Page Application (SPA)
 
-Video demonstration of the app: https://www.youtube.com/watch?v=0cTBq7ucjcw.
+[![Video demonstration](https://img.youtube.com/vi/v=0cTBq7ucjcw/maxresdefault.jpg)](https://www.youtube.com/watch?v=0cTBq7ucjcw)
 
 This Single Page Application tracks workouts or exercises completed by the user. React is used for the front-end UI app, and a REST API using Node and Express is used for the back end. MongoDB is used to store data.
 
